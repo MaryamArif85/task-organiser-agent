@@ -7,7 +7,7 @@
 ![Output](images/output.png)
 
 ### Live Streamlit App
-![App](images/app-screenshot.png)
+![App](images/app-screenshot-new.png)
 
 ## Workflow Architecture
 [START] -> Task Extraction (Gemini) -> Task Prioritization (Gemini) -> Format Results (Python) -> [END]
